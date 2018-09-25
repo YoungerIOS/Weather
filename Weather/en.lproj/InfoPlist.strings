@@ -1,0 +1,29 @@
+/* 
+  InfoPlist.strings
+  Weather
+
+  Created by young on 2018/8/21.
+  Copyright © 2018年 Yang. All rights reserved.
+*/
+CFBundleDisplayName = "Rainbow Day";
+
+/*
+-------------------标题-------------------
+Rainbow Weather EveryDay
+カラー毎日の天気
+彩霞飘~晴空万里
+-------------------关键-------------------
+Weather,Rainbow,colour,Local,Good Day,Nice Day,Today
+天気,虹,ローカル,おやすみ,素敵な日,今日,明日
+今天天气预报阵雨多云天天幸运气有时时间五点整六合文娱快乐广场看世界杯足球赛再斗地主麻将戴皇冠轰炸金花游戏卖3蛋壳鸡蛋pc端彩虹出现公园免门票去看北京赛车展览pk吃28鸡斗牛牛用快手玩抖音QQ联系
+-------------------网址-------------------
+https://www.accuweather.com/
+-------------------描述-------------------
+A practical weather forecast APP with a simple and beautiful interface that provides 24-hour weather details and a one-week weather forecast to dynamically display multiple weather data. Supporting more than 100 countries and regions around the world, it is a good helper for your home and travel!
+ 
+シンプルで美しいインターフェイスを備えた実用的な天気予報アプリで、24時間の天気情報と複数の天気データを動的に表示する1週間の天気予報を提供します。世界中の100以上の国や地域をサポートしており、あなたの家庭や旅行に役立ちます！
+ 
+一款实用的天气预报APP，界面简约精美，提供24小时天气详情和一周天气预报，动态展示多个天气数据。支持全球一百多个国家和地区,是你居家、出行的好帮手！
+-------------------备注-------------------
+Before you review this App,please turn on your <Location> and <Wi-Fi>,thank you very much!!!
+*/
